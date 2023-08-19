@@ -5,6 +5,6 @@ This makes it easy to manage configuration properties for all of your applicatio
 configuration properties without having to redeploy your applications.
 
 **Configure the Spring Cloud Config Server:**
-•	Git: The Config Server can be configured to store configuration properties in a Git repository. This is the most common way to configure the Config Server,
+**Git:** The Config Server can be configured to store configuration properties in a Git repository. This is the most common way to configure the Config Server,
 as it allows you to version your configuration properties and easily roll back to a previous version if necessary.
 
